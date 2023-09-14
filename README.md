@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub! 🚀
 
-Salut tout le monde! 👋 Je suis en plein périple pour devenir un développeuse web, après avoir traversé le monde du e-commerce. 🌐
+Salut tout le monde! 👋 Je suis en plein périple pour devenir une développeuse web, après avoir traversé le monde du e-commerce. 🌐
 
 ## Mes Super Pouvoirs (encore à développer, eux aussi...) 💪
 
